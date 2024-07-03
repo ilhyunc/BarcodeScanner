@@ -2,7 +2,7 @@
 //  BarcodeScannerViewModel.swift
 //  BarcodeScanner
 //
-//  Created by Joe on 2024-06-28.
+//  Created by Joe on 2024-06-30.
 //
 
 import SwiftUI
